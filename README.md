@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Uttam Nagargoje 👋
 
-<!--
-**NAGARGOJE-UTTAM/NAGARGOJE-UTTAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Software Engineer | Computer Science Student
 
-Here are some ideas to get you started:
+I build intelligent software solutions using **Python, Machine Learning, AI, and Cloud technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building projects in:
+
+- 🤖 Machine Learning & Artificial Intelligence
+- 💻 Software Engineering & System Design
+- ☁️ Cloud Computing & DevOps
+- 🧠 Deep Learning & Computer Vision
+- 🗄️ Databases & Backend Development
+
+### 🚀 Currently Working On
+
+- Machine Learning implementations from scratch
+- AI & Computer Vision projects
+- Cloud and software engineering projects
+
+### 🎯 Goal
+
+To become a strong **AI/ML & Software Engineer** by building real-world, production-oriented projects.
